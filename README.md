@@ -1,9 +1,5 @@
 # Simple Image Annotation Tool
-<<<<<<< HEAD
 This repository contains python tool to annotate images. Image annotation and labeling is a time consuming task. This tool can help in easily labeling images. You can use this tool to annotate images in csv or pascal voc format. It uses opencv and tkinter for simple user interface.
-=======
-This repository contains python tool to annotate images. Image annotation and labeling is a time consuming task. This tool can help in easily labeling images. You can use this tool annotate images in csv or pascal voc format. It uses opencv and tkinter for simple user interface.
->>>>>>> refs/remotes/origin/master
 
 ## Requirement:
 1. Opencv
